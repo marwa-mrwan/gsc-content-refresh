@@ -1,0 +1,4 @@
+interface:
+  display_name: "GSC Content Refresh"
+  short_description: "Protect and recover article search visibility"
+  default_prompt: "Use $gsc-content-refresh to analyze this article in Google Search Console and prepare a safe content-refresh brief."
